@@ -1,0 +1,28 @@
+Instruções
+
+1- Criar Projeto
+Crie uma pasta com o nome <angularMaterialTraining>
+Dentro desta pasta, crie uma pasta com o nome <myFirstProject>
+Entre na pasta <myFirstProject> e mantenha o <shift> pressionado, click com o botão direito do mouse e click em <abrir janela de comando aqui>
+ no janela de comandos, digite
+<bower init>
+ name myfirstmaterialproject
+ description: angular material project
+ main: file index.html
+ keywords: angularjs,material,design
+ authors: seu nome e e-mail
+ license: MIT
+ homepage:
+ set currently installed components as dependencies? Yes
+ add commonly ignored files to ignore list? Yes
+ would you like to mark this package as private which prevents it from being ac
+ would you like to mark this package as private which prevents it from being ac
+identally published to the registry? Yes
+
+
+Instalações
+bower install angular#1.6.4
+bower install angular-material
+
+
+
