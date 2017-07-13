@@ -1,0 +1,23 @@
+{
+  "name": "myfirstproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patriciocordeiro/myFirstAngularProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patriciocordeiro/myFirstAngularProject/issues"
+  },
+  "homepage": "https://github.com/patriciocordeiro/myFirstAngularProject#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
